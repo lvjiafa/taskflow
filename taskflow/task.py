@@ -34,6 +34,7 @@ LOG = logging.getLogger(__name__)
 # Constants passed into revert kwargs.
 #
 # Contain the execute() result (if any).
+# 定义一些函数的默认参数
 REVERT_RESULT = 'result'
 #
 # The cause of the flow failure/s
